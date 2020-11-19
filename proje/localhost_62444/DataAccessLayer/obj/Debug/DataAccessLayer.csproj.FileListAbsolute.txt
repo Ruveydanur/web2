@@ -1,0 +1,7 @@
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

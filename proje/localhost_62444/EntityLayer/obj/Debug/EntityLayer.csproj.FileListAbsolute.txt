@@ -1,0 +1,5 @@
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\RÜVEYDANUR\Documents\Visual Studio 2013\Projects\localhost_62444\EntityLayer\obj\Debug\EntityLayer.pdb
